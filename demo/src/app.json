@@ -21,7 +21,8 @@
     "pages/slideview/slideview",
     "pages/stepper/stepper",
     "pages/searchBar/searchBar",
-    "pages/noticeBar/noticeBar"
+    "pages/noticeBar/noticeBar",
+    "pages/tabs/tabs"
   ],
   "window":{
     "backgroundTextStyle":"light",

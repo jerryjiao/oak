@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+    <oak-tabs></oak-tabs>
+</view>
