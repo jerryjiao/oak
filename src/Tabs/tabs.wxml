@@ -7,8 +7,12 @@
         <scroll-view
             scroll-x="true"
             scroll-with-animation
-            class="scroll-class"
+            class="oak-tabs-scroll"
             >
+            <view class="tab-class">
+                
+            </view>
+              
         </scroll-view>
 
         <slot name="tabs-right" />

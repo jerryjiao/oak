@@ -9,15 +9,11 @@ Component({
             optionalTypes: [String],
         }
     },
-    relations: {
-        name: 'tab',
-    },
     data: {
         // 这里是一些组件内部数据
         someData: {}
     },
     methods: {
 
-    },
-    externalClasses: ['ext-class']
+    }
 })
